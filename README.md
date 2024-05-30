@@ -1,6 +1,9 @@
 # Dotnet-Pagination
-Small Dotnet project to test ChargeBee Dotnet Patination Related Issue. 
+Sample .NET project to test Chargebee .NET SDK's [issue](https://github.com/chargebee/chargebee-dotnet/issues/54)
 
-# Instruction To Run This Project: 
-- Please change the ``ApiConfig.Configure("test-site", "test_api_key");`` to your test site and test site api key. 
-- Navitate to this project file, ``/path/to/your/projrect``, and type ``dotnet run Program.cs``  
+## Instructions to run this project: 
+- Please change the ``ApiConfig.Configure("test-site", "test_api_key");`` to your test site and test site API key. 
+- Navitate to this project file, ``/path/to/your/project``, and type ``dotnet run Program.cs``
+
+## Expected result
+- You should not get any error (especially the one mentioned in this [issue](https://github.com/chargebee/chargebee-dotnet/issues/54))
