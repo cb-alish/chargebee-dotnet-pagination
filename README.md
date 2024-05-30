@@ -1,4 +1,4 @@
-# Dotnet-Pagination
+# chargebee-dotnet-pagination
 Sample .NET project to test Chargebee .NET SDK's [issue](https://github.com/chargebee/chargebee-dotnet/issues/54)
 
 ## Instructions to run this project: 
